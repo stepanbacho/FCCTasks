@@ -10,5 +10,5 @@ function sumAll(arr) {
     }
     return sumBetween;
 }
-let r = sumAll([2,]);
-console.log(r);
+// let r = sumAll([2,]);
+// console.log(r);
